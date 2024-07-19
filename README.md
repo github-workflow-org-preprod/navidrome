@@ -11,7 +11,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0-ff69b4.svg?style=flat-square)](CODE_OF_CONDUCT.md)
 
 Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your
-music collection from any browser or mobile device. It's like your personal Spotify!
+music collection from any browser or mobile device. It's like your personal Spotify! 
 
 
 **Note**: The `master` branch may be in an unstable or even broken state during development. 
